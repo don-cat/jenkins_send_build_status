@@ -41,7 +41,7 @@ import org.apache.http.impl.client.DefaultHttpClient;
  * <p>
  * When a build is performed, the {@link #perform} method will be invoked. 
  *
- * @author Kohsuke Kawaguchi
+ * @author don-cat
  */
 public class HelloWorldBuilder extends Builder implements SimpleBuildStep {
 
