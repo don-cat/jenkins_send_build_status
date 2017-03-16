@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ljr.xxx.sendbuildstatus.SendStatus_-DescriptorImpl plugin="send-build-status@1.0-SNAPSHOT">
+  <urlHead>http://www.baidu.com?</urlHead>
+</ljr.xxx.sendbuildstatus.SendStatus_-DescriptorImpl>

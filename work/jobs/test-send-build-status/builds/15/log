@@ -1,0 +1,19 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Users\ljrxxx\Documents\workspace\send-build-status\work\jobs\test-send-build-status\workspace
+[workspace] $ cmd /c call C:\Users\ljrxxx\AppData\Local\Temp\hudson6408289388018785751.bat
+
+C:\Users\ljrxxx\Documents\workspace\send-build-status\work\jobs\test-send-build-status\workspace>dir
+ Çı¶¯Æ÷ C ÖĞµÄ¾íÊÇ Windows
+ ¾íµÄĞòÁĞºÅÊÇ 9EF4-9E16
+
+ C:\Users\ljrxxx\Documents\workspace\send-build-status\work\jobs\test-send-build-status\workspace µÄÄ¿Â¼
+
+2017/03/14  16:29    <DIR>          .
+2017/03/14  16:29    <DIR>          ..
+               0 ¸öÎÄ¼ş              0 ×Ö½Ú
+               2 ¸öÄ¿Â¼ 69,499,154,432 ¿ÉÓÃ×Ö½Ú
+
+C:\Users\ljrxxx\Documents\workspace\send-build-status\work\jobs\test-send-build-status\workspace>exit 0 
+Hello, 123!build status url:null
+·µ»Ø½á¹ûÖÁscmÆ½Ì¨³É¹¦£¡
+Finished: SUCCESS

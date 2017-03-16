@@ -1,0 +1,32 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Users\ljrxxx\Documents\workspace\send-build-status\work\jobs\test-send-build-status\workspace
+[workspace] $ cmd /c call C:\Users\ljrxxx\AppData\Local\Temp\hudson6262362730769783528.bat
+
+C:\Users\ljrxxx\Documents\workspace\send-build-status\work\jobs\test-send-build-status\workspace>dir
+ Çý¶¯Æ÷ C ÖÐµÄ¾íÊÇ Windows
+ ¾íµÄÐòÁÐºÅÊÇ 9EF4-9E16
+
+ C:\Users\ljrxxx\Documents\workspace\send-build-status\work\jobs\test-send-build-status\workspace µÄÄ¿Â¼
+
+2017/03/14  16:29    <DIR>          .
+2017/03/14  16:29    <DIR>          ..
+               0 ¸öÎÄ¼þ              0 ×Ö½Ú
+               2 ¸öÄ¿Â¼ 68,246,552,576 ¿ÉÓÃ×Ö½Ú
+
+C:\Users\ljrxxx\Documents\workspace\send-build-status\work\jobs\test-send-build-status\workspace>exit 0 
+Hello, 123!build status url:blue_anime.gif
+ERROR: Build step failed with exception
+[8mha:AAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mjava.lang.NullPointerException
+	at ljr.xxx.sendbuildstatus.HelloWorldBuilder.perform(HelloWorldBuilder.java:73)
+	at hudson.tasks.BuildStepCompatibilityLayer.perform(BuildStepCompatibilityLayer.java:75)
+	at hudson.tasks.BuildStepMonitor$1.perform(BuildStepMonitor.java:20)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.perform(AbstractBuild.java:785)
+	at hudson.model.Build$BuildExecution.build(Build.java:205)
+	at hudson.model.Build$BuildExecution.doRun(Build.java:162)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.run(AbstractBuild.java:537)
+	at hudson.model.Run.execute(Run.java:1741)
+	at hudson.model.FreeStyleBuild.run(FreeStyleBuild.java:43)
+	at hudson.model.ResourceController.execute(ResourceController.java:98)
+	at hudson.model.Executor.run(Executor.java:408)
+Build step 'send-build-status' marked build as failure
+Finished: FAILURE

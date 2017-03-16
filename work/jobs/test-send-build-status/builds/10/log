@@ -1,0 +1,11 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Users\ljrxxx\Documents\workspace\send-build-status\work\jobs\test-send-build-status\workspace
+[workspace] $ cmd /c call C:\Users\ljrxxx\AppData\Local\Temp\hudson2910581656398216949.bat
+
+C:\Users\ljrxxx\Documents\workspace\send-build-status\work\jobs\test-send-build-status\workspace>xcopy
+ÎÞÐ§µÄ²ÎÊýÊýÁ¿
+¸´ÖÆÁË 0 ¸öÎÄ¼þ
+
+C:\Users\ljrxxx\Documents\workspace\send-build-status\work\jobs\test-send-build-status\workspace>exit 4 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

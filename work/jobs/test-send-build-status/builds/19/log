@@ -1,0 +1,19 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Users\ljrxxx\Documents\workspace\send-build-status\work\jobs\test-send-build-status\workspace
+[workspace] $ cmd /c call C:\Users\ljrxxx\AppData\Local\Temp\hudson503754020347911070.bat
+
+C:\Users\ljrxxx\Documents\workspace\send-build-status\work\jobs\test-send-build-status\workspace>dir
+ Çý¶¯Æ÷ C ÖÐµÄ¾íÊÇ Windows
+ ¾íµÄÐòÁÐºÅÊÇ 9EF4-9E16
+
+ C:\Users\ljrxxx\Documents\workspace\send-build-status\work\jobs\test-send-build-status\workspace µÄÄ¿Â¼
+
+2017/03/14  16:29    <DIR>          .
+2017/03/14  16:29    <DIR>          ..
+               0 ¸öÎÄ¼þ              0 ×Ö½Ú
+               2 ¸öÄ¿Â¼ 69,296,361,472 ¿ÉÓÃ×Ö½Ú
+
+C:\Users\ljrxxx\Documents\workspace\send-build-status\work\jobs\test-send-build-status\workspace>exit 0 
+build status url:SUCCESS
+return this to scm platform!
+Finished: SUCCESS
